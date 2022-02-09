@@ -1,0 +1,2 @@
+[17-Dec-2021 11:53:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/comsecaud/public_html/app/Http/Controllers/Customer.php on line 5
+[17-Dec-2021 11:53:55 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/comsecaud/public_html/app/Http/Controllers/Customer.php on line 5
